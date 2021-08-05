@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.openorclose.bracesorcolon.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.openorclose.bracesorcolon.MyBundle
 
 class MyApplicationService {
 
